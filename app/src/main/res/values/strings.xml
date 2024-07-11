@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Sqlite-Crud-Operation</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="marks">Marks</string>
+    <string name="add_data">Add Data</string>
+
+</resources>
+
+
+

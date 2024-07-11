@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editText_name" type="id" />
+    <item name="editText_surname" type="id" />
+    <item name="editText_Marks" type="id" />
+    <item name="button_add" type="id" />
+    <item name="nameTextView" type="id" />
+    <item name="surnameTextView" type="id" />
+    <item name="marksTextView" type="id" />
+    <item name="recyclerView" type="id" />
+    <item name="textView_name" type="id" />
+    <item name="textView_surname" type="id" />
+    <item name="textView_marks" type="id" />
+</resources>
